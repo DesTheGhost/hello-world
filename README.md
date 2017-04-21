@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Yo mates!
+
+Just the first time i'm here so just doing some tasks to get the site's idea
